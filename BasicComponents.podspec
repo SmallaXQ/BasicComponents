@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-基础组件库，包含机型判断、屏幕判断、iPhoneX系列机型判断、按比例适配宽高，以750*1334为基准、系统其他常量定义；基础工具类BasicTool、版本比较类VersionManager、缓存管理类CacheManager、Plist工具类、ValidateTool正则校验工具；常用类拓展：Array+Extension、CGSize+Extension、Date+Extension、Float+Extension、NSObject+Extension、String+Extension、UIColor+Extension、UIImage+Extension、UIImageView+Extension、UILabel+Extension、UITextField+Extension、UIView+Extension；定时器类。
+基础组件库，包含机型判断、屏幕判断、iPhoneX系列机型判断、 按比例适配宽高，以750*1334为基准、系统其他常量定义；基础工具类BasicTool、版本比较类VersionManager、缓存管理类CacheManager、Plist工具类、ValidateTool正则校验工具；常用类拓展：Array+Extension、CGSize+Extension、Date+Extension、Float+Extension、NSObject+Extension、String+Extension、UIColor+Extension、UIImage+Extension、UIImageView+Extension、UILabel+Extension、UITextField+Extension、UIView+Extension；定时器类。
                        DESC
 
   s.homepage         = 'https://github.com/SmallaXQ/BasicComponents'
