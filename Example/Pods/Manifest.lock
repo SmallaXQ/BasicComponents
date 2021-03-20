@@ -1,0 +1,16 @@
+PODS:
+  - BasicComponents (0.1.0)
+
+DEPENDENCIES:
+  - BasicComponents (from `../`)
+
+EXTERNAL SOURCES:
+  BasicComponents:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BasicComponents: 18b20699adca5420631d6f50ef1e456bf14c219a
+
+PODFILE CHECKSUM: 6fb7d0a7965ad9b9b423acce38f5b649a4c7eded
+
+COCOAPODS: 1.10.1

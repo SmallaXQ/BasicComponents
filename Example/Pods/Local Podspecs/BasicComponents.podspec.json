@@ -1,0 +1,22 @@
+{
+  "name": "BasicComponents",
+  "version": "0.1.0",
+  "summary": "A short description of BasicComponents.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SmallaXQ/BasicComponents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SmallaXQ": "908433036@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SmallaXQ/BasicComponents.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BasicComponents/Classes/**/*"
+}
